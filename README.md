@@ -1,5 +1,5 @@
 # Taller de Fotogrametría Proyecto "La Moda es Luz"
-![Imagen del taller]("./img.jpg")
+![Imagen del taller](img.jpg)
 ### Agenda del Taller de Fotogrametría con Polycam
 
 #### **Duración: 3 horas**
